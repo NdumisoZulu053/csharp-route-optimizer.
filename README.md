@@ -35,9 +35,10 @@ Delivery routing is a classic graph problem: locations are nodes, roads are weig
 git clone [https://github.com/NdumisoZulu053/csharp-route-optimizer.git](https://github.com/NdumisoZulu053/csharp-route-optimizer.git)
 cd csharp-route-optimizer
 dotnet run
+```
 
 ## Example Output
-```
+
 --- Route Optimization System ---
 [DEBUG] Initializing Dijkstra search from 'Warehouse' to 'Destination'
 [DEBUG] Visiting node: Warehouse (Current shortest distance: 0 km)
